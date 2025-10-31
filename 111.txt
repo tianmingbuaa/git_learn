@@ -1,3 +1,4 @@
 hello world
 tst
 cm
+dev init
